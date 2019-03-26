@@ -1,4 +1,4 @@
-package OCAtasks.testCollections;
+package OCAtasks.assesment1.testCollections;
 
 
 import java.util.ArrayList;
