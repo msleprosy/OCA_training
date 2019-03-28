@@ -11,6 +11,12 @@ public class TypesTutorial {
 }
 
 class A {
+  /*  A(int a){
+        System.out.print("A");
+        a();
+    }
+error - no default constructor available*/
+
     A(){
         System.out.print("A");
         a();

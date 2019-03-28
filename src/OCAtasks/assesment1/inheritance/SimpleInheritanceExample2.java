@@ -1,4 +1,4 @@
-package OCAtasks.inheritance;
+package OCAtasks.assesment1.inheritance;
 
 /**
  * Created by veronika on 24.03.2019.
