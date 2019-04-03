@@ -17,10 +17,11 @@ class Sub extends Base {
     }
 }
 
- public class Program {
+class Program {
     public static void main(String[] args) {
         Sub s = new Sub();
-        Base b = s;
-        System.out.println(b.name);
+        Base b = new Base();
+//        Sub s2 = (Sub) b;
+//        System.out.println(s2.name);
     }
 }

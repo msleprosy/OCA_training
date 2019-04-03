@@ -3,7 +3,7 @@ package OCAtasks.assesment1.inheritance;
 /**
  * Created by veronika on 27.03.2019.
  */
-public class Deer4 {
+class Deer4 {
 
 /* You can extend access modifiers and narrow return type in child.
 * */

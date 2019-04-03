@@ -3,7 +3,7 @@ package OCAtasks.assesment1.inheritance;
 /**
  * Created by veronika on 24.03.2019.
  */
-public class Deer1 {
+class Deer1 {
     private String privateDeer1Field = "i'am a private Deer1 field";
     public Deer1() { System.out.print("Deer1"); }
     public Deer1(int age) { System.out.print("DeerAge "); }

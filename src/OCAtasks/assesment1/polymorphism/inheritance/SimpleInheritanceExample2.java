@@ -4,7 +4,7 @@ package OCAtasks.assesment1.inheritance;
  * Created by veronika on 24.03.2019.
  */
 
-public class Deer2 {
+class Deer2 {
 
     private void voice(){
         System.out.println("Hello World from Deer class!");

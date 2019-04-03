@@ -1,11 +1,12 @@
-package OCAtasks.assesment1.orderOfInitialization;
+package OCAtasks.assesment1.inheritance;
 
 /**
  * Created by veronika on 28.03.2019.
  */
-public class TypesTutorial {
+class TypesTutorial {
 
-    public static void main(String... atgs) {
+    public static void main(String... args) {
+
         A alpha = new B();
     }
 }
