@@ -1,4 +1,4 @@
-package OCAtasks.assesment1.interfaces;
+package OCAtasks.assesment1.interfaces.LambdasAndFunctionalInterfaces;
 
 /**
  * Created by veronika on 31.03.2019.
@@ -11,17 +11,17 @@ package OCAtasks.assesment1.interfaces;
 public class FunctionalInterfaceTask2 {
     public static void main(String[] args) {
         ClassWithLambda2 classWithLambda2 = new ClassWithLambda2();
-        System.out.println(classWithLambda2.functionalInterface2.getLongerString("longString", "String"));
+        System.out.println(classWithLambda2.lambda2.getLongerString("longString", "String"));
     }
 }
 
 class ClassWithLambda2 {
-    FunctionalInterface2 functionalInterface2 = ((str1, str2) -> {
+    FunctionalInterface2 lambda2 = (str1, str2) -> {
         if (str1.length() > str2.length())
             return str1;
         else
             return str2;
-    });
+    };
 }
 
 @FunctionalInterface

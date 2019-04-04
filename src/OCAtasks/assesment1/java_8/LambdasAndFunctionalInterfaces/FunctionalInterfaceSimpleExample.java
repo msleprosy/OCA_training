@@ -1,4 +1,4 @@
-package OCAtasks.assesment1.interfaces;
+package OCAtasks.assesment1.interfaces.LambdasAndFunctionalInterfaces;
 
 /**
  * Created by veronika on 31.03.2019.
