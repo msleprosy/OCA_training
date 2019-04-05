@@ -1,6 +1,4 @@
-package OCAtasks.assesment1.interfaces.LambdasAndFunctionalInterfaces;
-
-import java.lang.*;
+package OCAtasks.assesment1.java_8.LambdasAndFunctionalInterfaces;
 
 /**
  * Created by veronika on 31.03.2019.
@@ -26,6 +24,10 @@ class ClassWithLambda {
 @FunctionalInterface
 interface BaseFunctionalInterface{
     boolean getBoolean(int val);
+    default void test(){}
+    default void test2(){}
+    default void test3(){}
+    static void test4(){};
 }
 
 @FunctionalInterface

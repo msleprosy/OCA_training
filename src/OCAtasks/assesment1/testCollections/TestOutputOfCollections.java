@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class TestCollections {
+public class TestOutputOfCollections {
     static int[] array = {6,9,8};
     static List<Integer> list = new ArrayList<>();
    /* public static void main(String[] args) {

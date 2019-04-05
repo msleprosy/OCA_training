@@ -1,4 +1,4 @@
-package OCAtasks.thisKeyword;
+package OCAtasks.assesment1.thisKeyword;
 
 /* Created by veronika on 24.03.2019.
 * */

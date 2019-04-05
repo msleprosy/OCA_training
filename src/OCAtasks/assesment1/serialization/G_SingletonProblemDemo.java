@@ -1,4 +1,4 @@
-package OCAtasks.assesment1;
+package OCAtasks.assesment1.serialization;
 
 /**
  * Created by veronika on 25.03.2019.
@@ -12,6 +12,8 @@ import java.nio.file.Path;
  */
 
 //in the process of deserialization the new instance of singleton creates, which is against the singleton principle.
+// to solve it you, for example, may use enum as a singleton.
+
 public class G_SingletonProblemDemo {
     private static class SecretKey implements Serializable {
         private String key;

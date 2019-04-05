@@ -1,4 +1,4 @@
-package OCAtasks.forLoopFeatures;
+package OCAtasks.assesment1.forLoopFeatures;
 
 /**
  * Created by veronika on 24.03.2019.

@@ -1,4 +1,4 @@
-package OCAtasks.assesment1.interfaces.defaultMethodsInInterfaces;
+package OCAtasks.assesment1.java_8.defaultMethodsInInterfaces;
 
 /**
  * Created by veronika on 31.03.2019.

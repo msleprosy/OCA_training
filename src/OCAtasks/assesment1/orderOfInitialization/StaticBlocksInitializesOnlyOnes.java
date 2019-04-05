@@ -21,7 +21,7 @@ class Dog extends Animal {
     }
 }
 
-public class Main {
+ class StaticBlocksInitializesOnlyOnes {
     public static void main(String[] args){
         Animal cat = new Cat();
         Animal dog = new Dog();

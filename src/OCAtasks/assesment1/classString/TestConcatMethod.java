@@ -7,7 +7,7 @@ public class TestConcatMethod {
     public static void main(String[] args) {
         String s = new String("ssssss");
         StringBuffer sb = new StringBuffer("bbbbbb");
-        s.concat("-aaa");
+        s.concat("-aaa"); //concat is never used, String is immutable
         sb.append("-aaa");
         System.out.println(s);
         System.out.println(sb);

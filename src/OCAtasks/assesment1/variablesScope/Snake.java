@@ -1,4 +1,4 @@
-package OCAtasks.assesment1;
+package OCAtasks.assesment1.variablesScope;
 
 /**
  * Created by veronika on 26.03.2019.
@@ -6,10 +6,11 @@ package OCAtasks.assesment1;
 public class Snake {
 
     public void shed(boolean time) {
-        String result = "done";
+
         if (time) {
+            String result = "done";
         }
-        System.out.println(result);
+        //System.out.println(result);
     }
 
     public static void main(String[] args){

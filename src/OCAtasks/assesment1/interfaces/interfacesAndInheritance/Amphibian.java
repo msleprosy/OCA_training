@@ -1,4 +1,4 @@
-package OCAtasks.assesment1.interfaces;
+package OCAtasks.assesment1.interfaces.interfacesAndInheritance;
 
 import java.util.ArrayList;
 import java.util.List;

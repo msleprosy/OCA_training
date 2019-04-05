@@ -6,10 +6,6 @@ package OCAtasks.assesment1.serialization;
 
 import java.io.*;
 import java.nio.file.Files;
-import java.nio.file.Path;package ru.yusdm.javacore.lesson14serialization.lesson.serialization;
-
-import java.io.*;
-import java.nio.file.Files;
 import java.nio.file.Path;
 
 /**

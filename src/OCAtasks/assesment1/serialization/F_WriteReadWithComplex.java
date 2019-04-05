@@ -1,4 +1,4 @@
-package OCAtasks.assesment1;
+package OCAtasks.assesment1.serialization;
 
 /**
  * Created by veronika on 25.03.2019.
