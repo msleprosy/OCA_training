@@ -17,7 +17,6 @@ public class IntegralTypesRemovingAndAddingByValueIssue {
         //numbers.remove(1);//deletes by index instead of deleting by value
         numbers.remove(new Integer(1));//deletes by value
         System.out.println(numbers);
-
         List<Byte> numbers2 = new ArrayList<>();
         numbers2.add(new Byte((byte)1));//same shit with Short
         numbers2.add(new Byte((byte)2));
