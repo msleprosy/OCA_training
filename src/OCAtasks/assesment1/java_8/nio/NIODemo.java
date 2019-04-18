@@ -23,11 +23,11 @@ import java.util.stream.Stream;
      */
     public class NIODemo implements IO {
 
-        public static final String FILE_PATH = "C:\\Users\\Admin\\Desktop\\demoio\\44.txt";
-        public static final String FILE_PATH_ZIP_SRC = "C:\\Users\\Admin\\Desktop\\demoio\\zipFile.zip";
-        public static final String FILE_PATH_ZIP_DEST = "C:\\Users\\Admin\\Desktop\\demoio\\zipFileCopy.zip";
-        public static final String FILE_TO_WRITE_PATH = "C:\\Users\\Admin\\Desktop\\demoio\\to_write.txt";
-        public static final String DIR_PATH = "C:\\Users\\Admin\\Desktop\\demoio\\";
+        public static final String FILE_PATH = "C:\\Users\\veronika\\Desktop\\demoio\\44.txt";
+        public static final String FILE_PATH_ZIP_SRC = "C:\\Users\\veronika\\Desktop\\demoio\\zipFile.zip";
+        public static final String FILE_PATH_ZIP_DEST = "C:\\Users\\veronika\\Desktop\\demoio\\zipFileCopy.zip";
+        public static final String FILE_TO_WRITE_PATH = "C:\\Users\\veronika\\Desktop\\demoio\\to_write.txt";
+        public static final String DIR_PATH = "C:\\Users\\veronika\\Desktop\\demoio\\";
 
 
         public static void main(String[] args) {
